@@ -15,9 +15,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anish-sarawgi-baa970227/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/anish_sarawgi/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/anishsarawgi5"><img src="https://img.shields.io/badge/- Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anish-sarawgi-baa970227/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/anish_sarawgi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/anishsarawgi5" target="_blank"><img src="https://img.shields.io/badge/- Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ---
